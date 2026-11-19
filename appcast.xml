@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Recall</title>
+        <item>
+            <title>0.1.11</title>
+            <pubDate>Thu, 19 Nov 2026 17:06:24 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Recall 0.1.11 adds signed in-app updates. Use Recall → Check for Updates when recording and playback are idle.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.11/Recall-macOS.zip" length="2044042" type="application/octet-stream" sparkle:edSignature="BGwTunRAz5cLqru5buNJ5CkhZeq0ljS6sb2c1zWVqMRmNo0Rv0KISjs7ulHEWno4pjWflyTTIELDW23mynbOAQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: W1MK/avFHimQ0KyeMut4KA4zjrkYvcyvkba5gvACAEhVDLmkF77H1lMzxwPko1ZOFR/su4rdpp3TOnY3ao25BA==
+length: 1249
+-->
