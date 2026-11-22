@@ -1,8 +1,20 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Recall</title>
+        <item>
+            <title>0.1.12</title>
+            <pubDate>Sun, 22 Nov 2026 09:33:04 -0500</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Fixes Sparkle startup, records mute groups and Stereo Tap Delay tempo changes on supported mixers, and displays elapsed time in hours, minutes, and seconds.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.12/Recall-macOS.zip" length="2056798" type="application/octet-stream" sparkle:edSignature="yWvodIQvaUtOH/E5JRpF4l6dbMPe1bUatpUvHfGrLyN9q6oUYDRrb2Uib8ybLhoTX3r0Eh1vYD2cV4hLuM6EAA=="/>
+        </item>
         <item>
             <title>0.1.11</title>
             <pubDate>Thu, 19 Nov 2026 17:06:24 -0500</pubDate>
@@ -11,10 +23,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[Recall 0.1.11 adds signed in-app updates. Use Recall → Check for Updates when recording and playback are idle.
 ]]></description>
-            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.11/Recall-macOS.zip" length="2044042" type="application/octet-stream" sparkle:edSignature="BGwTunRAz5cLqru5buNJ5CkhZeq0ljS6sb2c1zWVqMRmNo0Rv0KISjs7ulHEWno4pjWflyTTIELDW23mynbOAQ=="></enclosure>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.11/Recall-macOS.zip" length="2044042" type="application/octet-stream" sparkle:edSignature="BGwTunRAz5cLqru5buNJ5CkhZeq0ljS6sb2c1zWVqMRmNo0Rv0KISjs7ulHEWno4pjWflyTTIELDW23mynbOAQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: W1MK/avFHimQ0KyeMut4KA4zjrkYvcyvkba5gvACAEhVDLmkF77H1lMzxwPko1ZOFR/su4rdpp3TOnY3ao25BA==
-length: 1249
+</rss>
+<!-- sparkle-signatures:
+edSignature: BiheLipvZIOE3SFcn3PYKD/zonR9DckzC9OzkUdgiTGTX7v20NIfVnQUvNbaNLvBCdS2evnCnXaAQ3i9J9cKBw==
+length: 2096
 -->
