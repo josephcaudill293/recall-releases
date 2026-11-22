@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Recall</title>
         <item>
+            <title>0.1.16</title>
+            <pubDate>Sun, 22 Nov 2026 10:55:44 -0500</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Adds Always on Top in Record mode and improves playback timing by using the decoded LTC audio sample position. Recorded scene changes play back even when the original scene is unavailable.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.16/Recall-macOS.zip" length="2259590" type="application/octet-stream" sparkle:edSignature="NJPrnDMYXfDWofL+UYUagQ4ykSK3MOp+okc5dYMIu+R8IzOgd8YUGfZitM6gVkt+lUsdnOtQ332BMChJtn8ZBw=="/>
+        </item>
+        <item>
             <title>0.1.15</title>
             <pubDate>Sun, 22 Nov 2026 10:36:14 -0500</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -25,19 +35,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.14/Recall-macOS.zip" length="2219204" type="application/octet-stream" sparkle:edSignature="CwWpDyLJ9G3gP7+LZFzG42XdPGUabFrW48omrM1p4UJjbhzJNH0evzM8ed6t8IAwr2B6HJH8ebah7F+Jg43eAw=="/>
         </item>
-        <item>
-            <title>0.1.12</title>
-            <pubDate>Sun, 22 Nov 2026 09:33:04 -0500</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Fixes Sparkle startup, records mute groups and Stereo Tap Delay tempo changes on supported mixers, and displays elapsed time in hours, minutes, and seconds.
-]]></description>
-            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.12/Recall-macOS.zip" length="2056798" type="application/octet-stream" sparkle:edSignature="yWvodIQvaUtOH/E5JRpF4l6dbMPe1bUatpUvHfGrLyN9q6oUYDRrb2Uib8ybLhoTX3r0Eh1vYD2cV4hLuM6EAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: U2iZwz2UuZpk49pb9DcONnQcxnSF6xWBZKGkIL9Wi3FvAENh0VVDHRfrby9GTSFl1Vu11pDG9uNLO3XSzLRmAw==
-length: 2925
+edSignature: FAEJd3xWsLJS/p1DxMIVf0lEG7kXcTWORm/KBRp5FHrUgwEvqMpl1XmGhOoFTbtCUjUcyvOnFHH0myiJ4MAMCg==
+length: 2957
 -->
