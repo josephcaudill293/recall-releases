@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Recall</title>
         <item>
+            <title>0.1.14</title>
+            <pubDate>Sun, 22 Nov 2026 10:24:08 -0500</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Adds mixer identification, wider control coverage, playback review, group safes, and timestamped scene and preset markers.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.14/Recall-macOS.zip" length="2219204" type="application/octet-stream" sparkle:edSignature="CwWpDyLJ9G3gP7+LZFzG42XdPGUabFrW48omrM1p4UJjbhzJNH0evzM8ed6t8IAwr2B6HJH8ebah7F+Jg43eAw=="/>
+        </item>
+        <item>
             <title>0.1.12</title>
             <pubDate>Sun, 22 Nov 2026 09:33:04 -0500</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -28,6 +38,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: BiheLipvZIOE3SFcn3PYKD/zonR9DckzC9OzkUdgiTGTX7v20NIfVnQUvNbaNLvBCdS2evnCnXaAQ3i9J9cKBw==
-length: 2096
+edSignature: cEwlsiyUu1Wm8/vXiBnQo/ORQkgEebWwLVmlZBMTDwk36zoW8x1iFlW+/9sKMIN8UQZuHqJLRl4wyPTvUcMoAw==
+length: 2917
 -->
