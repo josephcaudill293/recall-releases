@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Recall</title>
         <item>
+            <title>0.1.17</title>
+            <pubDate>Mon, 23 Nov 2026 14:50:57 -0500</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Speeds up starting-mix restore and DAW seeks by skipping controls already at the recorded value and batching the remaining changes.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.17/Recall-macOS.zip" length="2249573" type="application/octet-stream" sparkle:edSignature="AWAfsBiwXevWdafMQXkoMCdmJw9Yi4oonArx/h9NtXRRh0Mq1YmkuMypUeVTIY6Qc8fduZ2WTmOt92+123pTDQ=="/>
+        </item>
+        <item>
             <title>0.1.16</title>
             <pubDate>Sun, 22 Nov 2026 10:55:44 -0500</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -25,19 +35,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.15/Recall-macOS.zip" length="2254149" type="application/octet-stream" sparkle:edSignature="1S5tRPlxU+HXxZQ4/o8kZL5i6CQ6Ea6vmSnrfdKu4sCoPcHdK6z5daaOz2SCYJhJ8QyxmId3GthRLn2tbn4kDg=="/>
         </item>
-        <item>
-            <title>0.1.14</title>
-            <pubDate>Sun, 22 Nov 2026 10:24:08 -0500</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Adds mixer identification, wider control coverage, playback review, group safes, and timestamped scene and preset markers.
-]]></description>
-            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.14/Recall-macOS.zip" length="2219204" type="application/octet-stream" sparkle:edSignature="CwWpDyLJ9G3gP7+LZFzG42XdPGUabFrW48omrM1p4UJjbhzJNH0evzM8ed6t8IAwr2B6HJH8ebah7F+Jg43eAw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: FAEJd3xWsLJS/p1DxMIVf0lEG7kXcTWORm/KBRp5FHrUgwEvqMpl1XmGhOoFTbtCUjUcyvOnFHH0myiJ4MAMCg==
-length: 2957
+edSignature: E0UJglmCfgX94VRjbs010Qwy0/rth5Wrox2Qmb5gg28nh+01w3wpG2vTusgxAAjmlts1ADLJrz7O82iBX5IjBQ==
+length: 2966
 -->
