@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Recall</title>
         <item>
+            <title>0.1.18</title>
+            <pubDate>Mon, 23 Nov 2026 15:35:53 -0500</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Adds Internal Test playback with Play, Pause, and a scrubber. Recall follows its own clock and applies existing safes when armed.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.18/Recall-macOS.zip" length="2296355" type="application/octet-stream" sparkle:edSignature="VYrthnzfqGcscBsnlPQ8j5vtVZURPIbs5qsilLZyHpFtMOfNU05rtq7O92qADdABWMwxu6aoPmJwp//7rJWYCA=="/>
+        </item>
+        <item>
             <title>0.1.17</title>
             <pubDate>Mon, 23 Nov 2026 14:50:57 -0500</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -25,19 +35,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.16/Recall-macOS.zip" length="2259590" type="application/octet-stream" sparkle:edSignature="NJPrnDMYXfDWofL+UYUagQ4ykSK3MOp+okc5dYMIu+R8IzOgd8YUGfZitM6gVkt+lUsdnOtQ332BMChJtn8ZBw=="/>
         </item>
-        <item>
-            <title>0.1.15</title>
-            <pubDate>Sun, 22 Nov 2026 10:36:14 -0500</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Adds a main-window Connect to Console button, a silent startup connection attempt, and a compact window while recording.
-]]></description>
-            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.15/Recall-macOS.zip" length="2254149" type="application/octet-stream" sparkle:edSignature="1S5tRPlxU+HXxZQ4/o8kZL5i6CQ6Ea6vmSnrfdKu4sCoPcHdK6z5daaOz2SCYJhJ8QyxmId3GthRLn2tbn4kDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: E0UJglmCfgX94VRjbs010Qwy0/rth5Wrox2Qmb5gg28nh+01w3wpG2vTusgxAAjmlts1ADLJrz7O82iBX5IjBQ==
-length: 2966
+edSignature: VtbTmxut1thxoO69Wkzg71b7O2MKLr+trFFJJPVuzf5lB1o/9OEGaSGJ+JYXMmMi+ufFhkW6gh0nua6PNcdkBA==
+length: 2975
 -->
