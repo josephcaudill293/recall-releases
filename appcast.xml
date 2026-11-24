@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Recall</title>
         <item>
+            <title>0.1.19</title>
+            <pubDate>Mon, 23 Nov 2026 21:42:09 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Recall is now Mix Audit. Existing sessions and workspaces can still be opened.
+- Redesigned Record, Playback, Settings, and Playback Review with the new app icon and menu bar controls.
+- Test playback supports 15-second skip buttons and 5-second arrow-key skips.
+- Initial playback and seeks skip mixer values that already match and restore changed controls in bounded batches.
+]]></description>
+            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.19/MixAudit-macOS.zip" length="6439532" type="application/octet-stream" sparkle:edSignature="9Sw6pPjIRgJx1DLuYU5hkIyMAyxaBlEm9capsi9IdMZPXehfvKxbgcSV1J+v9Ttv3lY6BqZCYwPNg6d9u9TLAg=="/>
+        </item>
+        <item>
             <title>0.1.18</title>
             <pubDate>Mon, 23 Nov 2026 15:35:53 -0500</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -25,19 +38,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.17/Recall-macOS.zip" length="2249573" type="application/octet-stream" sparkle:edSignature="AWAfsBiwXevWdafMQXkoMCdmJw9Yi4oonArx/h9NtXRRh0Mq1YmkuMypUeVTIY6Qc8fduZ2WTmOt92+123pTDQ=="/>
         </item>
-        <item>
-            <title>0.1.16</title>
-            <pubDate>Sun, 22 Nov 2026 10:55:44 -0500</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Adds Always on Top in Record mode and improves playback timing by using the decoded LTC audio sample position. Recorded scene changes play back even when the original scene is unavailable.
-]]></description>
-            <enclosure url="https://github.com/josephcaudill293/recall-releases/releases/download/v0.1.16/Recall-macOS.zip" length="2259590" type="application/octet-stream" sparkle:edSignature="NJPrnDMYXfDWofL+UYUagQ4ykSK3MOp+okc5dYMIu+R8IzOgd8YUGfZitM6gVkt+lUsdnOtQ332BMChJtn8ZBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: VtbTmxut1thxoO69Wkzg71b7O2MKLr+trFFJJPVuzf5lB1o/9OEGaSGJ+JYXMmMi+ufFhkW6gh0nua6PNcdkBA==
-length: 2975
+edSignature: s9WIre8YCxpVji95K5Kf12h2LV046Tx1YQImYFQ4VW/5nadXm1ar/6GQvMT1N2f+FwtU3HBaIbjFIy9S/4XODQ==
+length: 3166
 -->
